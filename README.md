@@ -1,2 +1,2 @@
 # TapHard
-Simple game where you press buttons in a given order.
+Simple Unity3d game where you press buttons in a given order.
